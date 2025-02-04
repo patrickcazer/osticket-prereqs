@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enabled internet information services
+- Installed web platform installer
+- Set up username/password
+- Installed MySQL
+- Installed C++ redistributable
+- Configure permissions
+- Install OS Ticket
 
 <h2>Installation Steps</h2>
 
